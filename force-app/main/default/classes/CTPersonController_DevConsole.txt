@@ -1,0 +1,3 @@
+String mobileNumber = '15542431234';
+String uniqueNumber = CTPersonController.getToken(mobileNumber);
+System.debug(uniqueNumber); 
